@@ -2,4 +2,4 @@
 
 * [简介](README.md)
 
-- [前面板知识](qianmianbanzhishi.md)
+* [学习规划](xuexiguihua.md)
