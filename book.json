@@ -2,7 +2,7 @@
     "root": ".",
     "title": "我的labview笔记本",
     "author": "Winnerzr",
-    "description": "Winnerzr's first gitbook",
+    "description": "Winnerzr's labview notebook",
     "language": "zh-hans",
     "plugins": [
         "donate",
