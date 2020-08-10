@@ -19,7 +19,7 @@
     ],
     "pluginsConfig": {
         "donate": {
-            "wechat": "https://gitee.com/zr001/my-picture-bed/raw/master/wechat.gif",
+            "wechat": "https://gitee.com/zr001/writeimges/raw/master/img/wechat.gif",
             "alipay": "https://gitee.com/zr001/my-picture-bed/raw/master/alipay.gif",
             "title": "",
             "button": "Donate",
